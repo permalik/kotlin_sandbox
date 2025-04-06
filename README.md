@@ -1,2 +1,2 @@
-# kotlin_currricula
-curricula:Kotlin Programming
+# kotlin_sandbox
+sandbox:Kotlin Programming and Turnkey Ecosystem
